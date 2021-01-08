@@ -45,7 +45,7 @@ p, li {
 
 ul {
   font-family: Roboto Mono;
-  list-style-type: circle;
+  list-style-type: disc;
   list-style-position: inside;
   font-weight: 700;
 }
