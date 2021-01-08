@@ -2,7 +2,7 @@
   --primary-color: #408BC8;
   --dark-color: #0A468B;
   --light-color: #C9E1F3;
-  --grid-line-color: rgb(187, 178, 178, 0.25);
+  --grid-line-color: rgb(187, 178, 178, 0.15);
 }
 
 body {
@@ -71,6 +71,16 @@ b {
   max-width: 20rem;
 }
 
+.header-label-section {
+  font-family: 'Anonymous Pro';
+  font-weight: 700;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  max-width: 20rem;
+}
+
 .title-box {
   width: 100%;
   margin: 0 auto 40px auto;
@@ -92,7 +102,7 @@ b {
 
 .sub-title-label {
   display: block;
-  max-width: 20rem;
+  max-width: 25rem;
   font-size: 1.5rem;
   font-family: 'VT323';
   text-align: center;
