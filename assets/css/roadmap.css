@@ -22,6 +22,11 @@
   position: relative;
   width: 100%;
 }
+
+.sub-title-label {
+  margin: 10px auto 20px auto;
+}
+
 .event:before {
     content: counter(section);
     position: absolute;
