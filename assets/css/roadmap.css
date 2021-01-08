@@ -11,6 +11,8 @@
 }
 
 .event {
+  font-family: Roboto Mono;
+  font-weight: 700;
   font-size: 1em;
   line-height: 1.75em;
   border-top: 5px solid;
