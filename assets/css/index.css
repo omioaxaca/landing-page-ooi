@@ -194,7 +194,7 @@ b {
 }
 
 .score-table-frame {
-  width: 100%;
-  height: calc(100vh - 520px);
+  width: 80%;
+  height: calc(100vh - 300px);
   margin-bottom: 30px;
 }
