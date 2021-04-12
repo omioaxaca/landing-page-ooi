@@ -195,6 +195,6 @@ b {
 
 .score-table-frame {
   width: 100%;
-  height: calc(100vh - 450px);
+  height: calc(100vh - 520px);
   margin-bottom: 30px;
 }
