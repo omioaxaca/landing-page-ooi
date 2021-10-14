@@ -780,9 +780,10 @@ p {
   padding-top: 180px; }
   @media (max-width: 767px) {
     .header-hero-content {
-      padding-top: 100px; } }
+      padding-top: 140px; } }
   .header-hero-content .header-sub-title {
     font-size: 38px;
+    padding-bottom: 20px;
     font-weight: 300;
     color: #fff; }
     @media (max-width: 767px) {
@@ -792,16 +793,17 @@ p {
       .header-hero-content .header-sub-title {
         font-size: 30px; } }
   .header-hero-content .header-title {
-    font-size: 38px;
+    font-size: 42px;
     font-weight: 700;
     color: #fff; }
     @media (max-width: 767px) {
       .header-hero-content .header-title {
-        font-size: 24px; } }
+        font-size: 28px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
       .header-hero-content .header-title {
-        font-size: 30px; } }
+        font-size: 34px; } }
   .header-hero-content .text {
+    font-weight: 300;
     color: #fff;
     margin-top: 30px; }
   .header-hero-content .main-btn {
