@@ -1,0 +1,5 @@
+.main {
+  background-color: var(--primary-color);
+  padding-top: 100px;
+  min-height: 100vh;
+}
